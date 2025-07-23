@@ -1,0 +1,39 @@
+<html>
+ <head> 
+  <title>时代少年团</title> 
+  <style type="text/css">
+      body{
+        text-align:center;
+        background-color: #2a2d3e;
+        color:white;
+        padding-top:100px;
+      }
+    .swj{
+      width:400px;
+      background-color: rgba(0,0,0,0.5);
+      margin: 10px auto;
+      border-radius:20px;
+      padding:10px;
+    }
+    </style>
+  
+ </head> 
+ <body id="v1"> 
+  <img src="mmexport1753250252637.jpg"/>
+  <h1 id="v2">Hello zxh</h1> 
+  <marquee id="v3">
+    那一天的忧郁，忧郁起来 
+  </marquee> 
+  <marquee id="v4">
+    那一天的寂寞，寂寞起来 
+  </marquee>
+  <div class="swj">
+      <h1>马嘉祺</h1>
+      <p>我爱你</p>
+  </div>
+  <div class="swj">
+      <h1>左奇函</h1>
+      <p>我爱你</p>
+  </div>  
+ </body>
+</html>
